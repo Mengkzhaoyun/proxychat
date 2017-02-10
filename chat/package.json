@@ -1,0 +1,16 @@
+{
+  "name": "chat app",
+  "version": "1.0.0",
+  "description": "a cluster chat app",
+  "main": "app.js",
+  "author": {
+    "name": "MengkZhaoyun@WOD.Blog",
+    "email": "mengkzhaoyun@gmail.com"
+  },
+  "dependencies": {
+    "express": "^3.4.4",
+    "swig": "*",
+    "socket.io": "^1.4.5",
+    "stylus": "^0.49.1"
+  }
+}
