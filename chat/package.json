@@ -4,7 +4,7 @@
   "description": "a cluster chat app",
   "main": "app.js",
   "author": {
-    "name": "MengkZhaoyun@WOD.Blog",
+    "name": "WOD.Blog.MengkZhaoyun",
     "email": "mengkzhaoyun@gmail.com"
   },
   "dependencies": {
